@@ -306,4 +306,7 @@ Technical Specification: Ocean Tuning Unit (OTU)
 https://note.com/inchacomusho/n/naa35a8485b35
 
 Technical Specification: Ocean Tuning Unit (OTU)
-InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-: Autonomous Vertical Circulation & Direct Planetary Cooling System
+https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-
+
+Physical Model of Ocean Tuning Unit (OTU)
+https://github.com/InchaComisho/Physical-Model-of-Ocean-Tuning-Unit-OTU-
