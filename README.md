@@ -2,14 +2,14 @@
 
 ## Spiral-Driven Deep Sea Aeration & Autonomous Vertical Circulation System
 
-**Author:** Master (inchacomisho / inchacomusho)
-**AI Collaborators:** Google Search AI, G (ChatGPT)
-**Published:** 2026-05-05
-**License:** Fully Open — Free to use, modify, translate, redistribute, or commercialize. No permission required.
+**Author:** Master (inchacomisho / inchacomusho)  
+**AI Collaborators:** Google Search AI, G (ChatGPT)  
+**Published:** 2026-05-05  
+**License:** Fully Open — Free to use, modify, translate, redistribute, or commercialize. No permission required.  
 
 ---
 
-## 1. Abstract
+## 1. Abstract  
 
 This document defines the physical model of the Ocean Tuning Unit (OTU), a system designed to restore oceanic vertical circulation and enhance planetary cooling through deep-sea aeration.
 The OTU integrates two key mechanisms:
