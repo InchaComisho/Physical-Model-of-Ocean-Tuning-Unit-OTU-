@@ -1,5 +1,7 @@
 # Ocean Tuning Unit（OTU）の物理モデル
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## 螺旋駆動型深海エアレーションと自律鉛直循環システム
 
 > English version: [README.md](./README.md)

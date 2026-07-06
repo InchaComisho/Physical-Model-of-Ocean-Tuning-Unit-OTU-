@@ -1,5 +1,7 @@
 # Physical Model of Ocean Tuning Unit (OTU)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## Spiral-Driven Deep Sea Aeration & Autonomous Vertical Circulation System
 
 **Author:** Master (inchacomisho / inchacomusho)  
